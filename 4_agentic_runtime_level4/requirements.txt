@@ -1,0 +1,6 @@
+
+# optional future deps
+faiss-cpu
+openai
+redis
+opentelemetry-api
