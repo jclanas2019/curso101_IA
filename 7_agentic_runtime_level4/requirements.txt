@@ -1,0 +1,8 @@
+python-dotenv>=1.0.1
+pydantic>=2.8.2
+openai>=1.40.0
+langgraph>=0.2.0
+# Level 4 — optional future backends
+# faiss-cpu        # VectorDB backend de alta performance
+# redis            # EventBus distribuido
+# opentelemetry-api  # Tracing en producción
